@@ -10,3 +10,5 @@ Try using `LIMIT` yourself below by writing a query that displays all the data i
 Write a query to return the `10` earliest orders in the `orders` table. Include the `id`, `occurred_at`, and `total_amt_usd`.
 
 [Quiz: ORDER BY](./2_order_by.sql)
+
+Write a query to return the top `5` orders in terms of largest `total_amt_usd`. Include the `id`, `account_id`, and `total_amt_usd`.

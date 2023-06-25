@@ -1,5 +1,12 @@
 # Intro to Programming for DATA Science Scholarship Program
 ## Quizes
 
-[1. LIMIT](./limit.sql)
+[QUIZ: LIMIT](./limit.sql)
+
 Try using `LIMIT` yourself below by writing a query that displays all the data in the `occurred_at`, `account_id`, and `channel` columns of the `web_events` table, and limits the output to only the first `15` rows.
+
+[Quiz: ORDER BY](./1_order_by.sql)
+
+Write a query to return the `10` earliest orders in the `orders` table. Include the `id`, `occurred_at`, and `total_amt_usd`.
+
+[Quiz: ORDER BY](./2_order_by.sql)

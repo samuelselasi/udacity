@@ -24,3 +24,5 @@ Write a query that displays the order ID, account ID, and total dollar amount fo
 [Quiz: ORDER BY_2:](./2_order_by_2.sql)
 
 Now write a query that again displays order ID, account ID, and total dollar amount for each order, but this time sorted first by total dollar amount (in descending order), and then by account ID (in ascending order).
+
+# Two sections completed...tbc

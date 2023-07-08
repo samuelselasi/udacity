@@ -26,3 +26,4 @@ Write a query that displays the order ID, account ID, and total dollar amount fo
 Now write a query that again displays order ID, account ID, and total dollar amount for each order, but this time sorted first by total dollar amount (in descending order), and then by account ID (in ascending order).
 
 # Two sections completed...tbc
+## SQL Aggregations

@@ -27,3 +27,4 @@ Now write a query that again displays order ID, account ID, and total dollar amo
 
 # Two sections completed...tbc
 ## SQL Aggregations
+60% done
